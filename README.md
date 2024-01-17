@@ -2,4 +2,4 @@ Deskripsi Project : Membuat API automation pada https://gorest.co.in/public/v2/u
 
 Cara menjalankan test : klik run pada method test
 
-Test case dan screenshot pada file ""
+Test case dan screenshot pada file "Test Case & Screenshot.xlsx"
